@@ -1,0 +1,21 @@
+article#contenido{
+background:#fff;
+margin:20px auto;
+overflow: hidden;
+padding:20px;
+border:1px solid #2E9AFE;
+width:90%;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+article#contenido input{
+background:#fff;
+border:1px solid #2E9AFE;
+padding:5px;
+}
+article#contenido select{
+background:#fff;
+border:1px solid #2E9AFE;
+padding:5px;
+}

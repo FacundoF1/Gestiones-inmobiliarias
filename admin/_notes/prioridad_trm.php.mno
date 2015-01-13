@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_prioridad" value="name:IdPrd;datatype:int,name:NomPrd;datatype:string,name:FePrd;datatype:timestamp" />
+</info>

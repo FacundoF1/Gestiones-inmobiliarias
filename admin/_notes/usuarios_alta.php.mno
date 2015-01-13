@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_categorais" value="name:IdCategoria;datatype:int,name:NomCat;datatype:string,name:NomRol;datatype:string,name:FeRol;datatype:timestamp" />
+	<infoitem key="UD_usuarios" value="name:IdUsuario;datatype:int,name:NomUsu;datatype:string,name:ApeUsu;datatype:string,name:DniUsu;datatype:string,name:PassUsu;datatype:string,name:TelMovil;datatype:string,name:TelFijo;datatype:string,name:NomCat;datatype:string,name:EmailUsu;datatype:string,name:FeUsu;datatype:timestamp" />
+</info>

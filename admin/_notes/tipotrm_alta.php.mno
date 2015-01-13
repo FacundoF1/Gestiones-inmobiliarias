@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tipotrm" value="name:IdTrm;datatype:int,name:Nomtrm;datatype:string,name:Nomlug;datatype:string,name:IdLug;datatype:int" />
+	<infoitem key="UD_lugares" value="name:IdLug;datatype:int,name:Nomlug;datatype:string,name:Dirlug;datatype:string,name:Tellug;datatype:int,name:Emaillug;datatype:string,name:Cuitlug;datatype:int,name:Felugar;datatype:timestamp" />
+</info>

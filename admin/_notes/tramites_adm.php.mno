@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tramite" value="name:IdTrm;datatype:int,name:Nomlug;datatype:string,name:TpoTrm;datatype:string,name:PrdTrm;datatype:string,name:Objeto;datatype:string,name:NomCltes;datatype:string,name:DniCltes;datatype:string,name:ConvenioTrm;datatype:real,name:TasaTrm;datatype:real,name:ColegioTrm;datatype:real,name:ImpTrm;datatype:real,name:FePresen;datatype:date,name:FeEntrega;datatype:date,name:NunTrm;datatype:string,name:Trm;datatype:string,name:Observaciones;datatype:string,name:FealtaTrm;datatype:timestamp" />
+</info>

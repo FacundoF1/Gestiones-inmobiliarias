@@ -1,0 +1,44 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+select {
+	border-radius: 4px;
+	font-size: 16px;
+}
+
+.divContenedor {
+	margin:0 auto; 
+	width:500px;
+	text-align:center;
+}
+
+.divLabels {
+	width: 200px;
+	float: left;
+	text-align: right;
+}
+
+.divSelects {
+	width: 300px;
+	float: left;
+	text-align: left;
+}
+
+#nebaris{
+	background-color: #333;
+	color: white;
+	padding: 15px;
+	text-align: center;
+	margin-top: 120px;
+	font-family: helvetica;
+}
+
+#nebaris a{
+	color:rgb(178, 255, 178);
+}
+
+#nebaris a:hover{
+	color:white;
+}

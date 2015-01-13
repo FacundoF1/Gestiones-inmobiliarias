@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lugares" value="name:IdLugar;datatype:int,name:Nomlug;datatype:string,name:Dirlug;datatype:string,name:Tellug;datatype:int,name:Emaillug;datatype:string,name:Cuitlug;datatype:int,name:Felugar;datatype:timestamp" />
+	<infoitem key="UD_Recordset1" value="name:IdLug;datatype:int,name:Nomlug;datatype:string,name:Dirlug;datatype:string,name:Tellug;datatype:int,name:Emaillug;datatype:string,name:Cuitlug;datatype:int,name:Felugar;datatype:timestamp" />
+	<infoitem key="UD_lugar" value="name:IdLug;datatype:int,name:Nomlug;datatype:string,name:Dirlug;datatype:string,name:Tellug;datatype:int,name:Emaillug;datatype:string,name:Cuitlug;datatype:int,name:Felugar;datatype:timestamp" />
+</info>

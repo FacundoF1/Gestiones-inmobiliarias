@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tramites" value="name:IdTrm;datatype:int,name:Nomlug;datatype:string,name:TpoTrm;datatype:string,name:PrdTrm;datatype:string,name:Objeto;datatype:string,name:NomCltes;datatype:string,name:DniCltes;datatype:string,name:ConvenioTrm;datatype:real,name:TasaTrm;datatype:real,name:ColegioTrm;datatype:real,name:ImpTrm;datatype:real,name:FePresen;datatype:date,name:FeEntrega;datatype:date,name:NunTrm;datatype:string,name:Trm;datatype:string,name:Observaciones;datatype:string,name:FealtaTrm;datatype:timestamp" />
+	<infoitem key="UD_usuarios" value="name:IdUsuario;datatype:int,name:NomUsu;datatype:string,name:ApeUsu;datatype:string,name:DniUsu;datatype:string,name:PassUsu;datatype:string,name:TelMovil;datatype:string,name:TelFijo;datatype:string,name:NomCat;datatype:string,name:Rol;datatype:string,name:EmailUsu;datatype:string,name:inActivo;datatype:int,name:FeUsu;datatype:timestamp" />
+	<infoitem key="UD_usuario" value="name:IdUsuario;datatype:int,name:NomUsu;datatype:string,name:ApeUsu;datatype:string,name:DniUsu;datatype:string,name:PassUsu;datatype:string,name:TelMovil;datatype:string,name:TelFijo;datatype:string,name:NomCat;datatype:string,name:Rol;datatype:string,name:EmailUsu;datatype:string,name:FeUsu;datatype:timestamp" />
+</info>
